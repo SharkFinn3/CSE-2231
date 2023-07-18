@@ -1,0 +1,16 @@
+PROGRAM Test IS
+
+  INSTRUCTION one IS
+     
+  END one
+  
+  INSTRUCTION two IS
+    
+  END two
+
+BEGIN
+  WHILE true DO
+    two
+    one
+  END WHILE
+END Test

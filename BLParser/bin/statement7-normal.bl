@@ -1,0 +1,6 @@
+  IF random THEN
+    turnleft
+  ELSE
+    go-for-it
+  END IF
+
